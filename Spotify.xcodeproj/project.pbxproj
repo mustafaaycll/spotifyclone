@@ -81,6 +81,7 @@
 		4499D886290049B0002B1DA2 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		4499D888290049C4002B1DA2 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		4499D88A290049D0002B1DA2 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		4499D88C2900540C002B1DA2 /* placeholder.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = placeholder.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +191,7 @@
 		44172C0C2900137300688E9E /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				4499D88C2900540C002B1DA2 /* placeholder.md */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
